@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+  color: #F30E0E;
+}
+p {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #230099;
+}
+body {
+  background-color: #20DAE3;
+  text-align: center;
+}
+
+button {
+  width: 100px;
+  height: 80px;
+  font-size: 30px;
+}
+
+section {
+  font-size: 30px;
+  text-align: center;
+  padding-top: 15px;
+}
