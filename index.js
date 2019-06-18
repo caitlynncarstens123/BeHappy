@@ -19,6 +19,7 @@ function sadGenerator(){
   section.innerText = quote;
 }
 
+
 function mediumGenerator(){
   var num = Math.random() * 2;
   var numRound = Math.floor(num);
